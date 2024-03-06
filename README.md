@@ -30,4 +30,4 @@ https://syworks.netlify.app/
 
 <br/>
 
-![Seonyeong Yoon's github stats](https://github-readme-stats.vercel.app/api?username=seonyeongyoon&show_icons=true&theme=calm_pink)
+![Seonyeong Yoon's github stats](https://github-readme-stats.vercel.app/api?username=seonyeongyoon&show_icons=true&theme=outrun)
