@@ -3,7 +3,7 @@
 넘어져도 다시 일어나는 오뚝이 같은 프론트엔드 개발자 윤선영입니다.
 
 ## 🔗 Portfolio Site
-<a href="https://syworks.netlify.app/" target="_blank">https://syworks.netlify.app</a>
+https://syworks.netlify.app/
 
 ## 🛠 Skills
 
