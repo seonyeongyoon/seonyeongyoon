@@ -3,7 +3,7 @@
 넘어져도 다시 일어나는 오뚝이 같은 프론트엔드 개발자 윤선영입니다.
 
 ## 🔗 Portfolio Site
-https://syworks.netlify.app/
+<a href="https://syworks.netlify.app/" target="_blank">https://syworks.netlify.app</a>
 
 ## 🛠 Skills
 
@@ -30,4 +30,4 @@ https://syworks.netlify.app/
 
 <br/>
 
-![Seonyeong Yoon's github stats](https://github-readme-stats.vercel.app/api?username=seonyeongyoon&show_icons=true&theme=outrun)
+![Seonyeong Yoon's github stats](https://github-readme-stats.vercel.app/api?username=seonyeongyoon&show_icons=true&theme=calm_pink)
