@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome!😊&desc=This%20is%20Seonyeong's%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 
-넘어져도 다시 일어나는 오뚝이 같은 프론트엔드 개발자 윤선영입니다.
+넘어져도 다시 일어나는 <b>오뚝이</b> 같은 프론트엔드 개발자 <b>윤선영</b>입니다.
 
 ## 🔗 Portfolio Site
 https://syworks.netlify.app/
